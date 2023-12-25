@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "banana client",
+      "name" : "banana client",
+      "version" : "2023-12-25-13-57-28",
+      "location" : "banana-client.json",
+      "priority" : 0
+    }
+  ]
+}
